@@ -1,0 +1,23 @@
+button {
+    width: 180px;
+    height: 180px;
+    background-color:lightslategray;
+    display: inline-block;
+    margin: 5px;
+    font-size: 40px;
+    font-style: weight;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 75px;
+}
+
